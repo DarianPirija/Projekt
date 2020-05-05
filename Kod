@@ -7,18 +7,18 @@ while ans:
     if question == "":
         sys.exit()
     elif answer == 1:
-        print "It is certain"
+        print ("It is certain")
     elif answer == 2:
-        print "Looks good"
+        print ("Looks good")
     elif answer == 3:
-        print "You may rely on it"
+        print ("You may rely on it")
     elif answer == 4:
-        print "Ask me again later"
+        print ("Ask me again later")
     elif answer == 5:
-        print "Concentrate and ask again"
+        print ("Concentrate and ask again")
     elif answer == 6:
-        print "Reply uncertein, try again"
+        print ("Reply uncertein, try again")
     elif answer == 7:
-        print "My answer is no"
+        print ("My answer is no")
     elif answer == 8:
-        print "Little bird said no"
+        print ("Little birdiebR  said no")
