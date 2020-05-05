@@ -21,4 +21,4 @@ while ans:
     elif answer == 7:
         print ("My answer is no")
     elif answer == 8:
-        print ("Little birdiebR  said no")
+        print ("Little birdie said no")
